@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Health</string>
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name= "Boolean">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name= "Diet">
+        <item>Omnivore</item>
+        <item>Vegan</item>
+        <item>Vegetarian</item>
+
+    </string-array>
+
+</resources>

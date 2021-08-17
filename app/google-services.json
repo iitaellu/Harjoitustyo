@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330725063395",
+    "project_id": "harjoitustyo-ida-viia",
+    "storage_bucket": "harjoitustyo-ida-viia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330725063395:android:c8e7caab8986666ea0e3d6",
+        "android_client_info": {
+          "package_name": "com.example.harjoitustyo_ida_viia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330725063395-brsg214ji2msg80bb8cranehl1vmichi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTfGmlNhL9XhIMEP0xA4Vhe4HONCaKTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330725063395-brsg214ji2msg80bb8cranehl1vmichi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
